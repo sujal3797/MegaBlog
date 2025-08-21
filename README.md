@@ -2,7 +2,7 @@
 
 MegaBlog is a feature-rich, full-stack blogging application built with a modern tech stack. It provides a seamless and intuitive experience for both readers and authors, featuring secure authentication, a powerful rich text editor, and dynamic content filtering.
 
-**Live Demo:** [Link to your deployed website]
+**Live Demo:** https://megablog-1.netlify.app/
 
 <br>
 
