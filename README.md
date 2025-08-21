@@ -4,8 +4,10 @@ MegaBlog is a feature-rich, full-stack blogging application built with a modern 
 
 **Live Demo:** [Link to your deployed website]
 
-![MegaBlog Screenshot](path/to/your/screenshot.png) 
-*(**Note:** You should replace this with a real screenshot of your application)*
+<img width="1898" height="918" alt="image" src="https://github.com/user-attachments/assets/1708fb2c-4411-490f-a30c-ea79b8a76227" />
+<img width="1901" height="913" alt="image" src="https://github.com/user-attachments/assets/a5f5c0cd-3415-4892-95ef-2b18a1e2bec0" />
+
+
 
 ---
 
